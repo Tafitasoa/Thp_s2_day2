@@ -11,7 +11,7 @@ Pour le lancer:
 ```
 ruby Route_de_marie.rb
 ```
-Ainsi, vous aurez dans un tableau dans laquelle, il y a les name et emails
+Ainsi, vous aurez un tableau danslaquelle il y a les name et emails
 
 ### Trader de l'obscur
 NB: Dès que vous etes surs que ça marche, faite:
